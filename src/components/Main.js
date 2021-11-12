@@ -2,8 +2,14 @@ import React from "react";
 import Card from "./Card";
 import Profile from "../asset/image/th.jpeg";
 
+
+// import Unsplash from 'unsplash-js';
+
 class Main extends React.Component {
+
+  
   render() {
+    
     return (
       <div className="Main">
         {/* create a reusable card component */}

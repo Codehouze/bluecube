@@ -1,13 +1,14 @@
 import React from "react";
-import Img from "../asset/image/Nkem_3.jpeg";
+import Image from "../components/Image";
+import { LoadImages } from "../components/api";
 
 class Card extends React.Component {
   render() {
     return (
       <div className="Card">
-        {/* create a reusable card component */}
-
-        <img src={Img} className="Img_holder"></img>
+        <div className="flex-container">
+        <Photos />
+        </div>
         <div className="card_info">
           <div className="card_name">
             <h3>William,28</h3>
@@ -19,9 +20,20 @@ class Card extends React.Component {
           </div>
         </div>
       </div>
-      
     );
   }
 }
+
+const Photos = () => {
+  const data = LoadImages();
+  console.log(data);
+
+  return(
+    
+data.map((img) => <Image src={img.urls.thumb} className="Img" />
+
+
+))
+};
 
 export default Card;
