@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/bluecube/static/css/main.056747e5.chunk.css",
-    "main.js": "/bluecube/static/js/main.502b5d26.chunk.js",
-    "main.js.map": "/bluecube/static/js/main.502b5d26.chunk.js.map",
-    "runtime-main.js": "/bluecube/static/js/runtime-main.066ad354.js",
-    "runtime-main.js.map": "/bluecube/static/js/runtime-main.066ad354.js.map",
-    "static/js/2.0bb5bb89.chunk.js": "/bluecube/static/js/2.0bb5bb89.chunk.js",
-    "static/js/2.0bb5bb89.chunk.js.map": "/bluecube/static/js/2.0bb5bb89.chunk.js.map",
-    "static/js/3.4d45c83f.chunk.js": "/bluecube/static/js/3.4d45c83f.chunk.js",
-    "static/js/3.4d45c83f.chunk.js.map": "/bluecube/static/js/3.4d45c83f.chunk.js.map",
+    "main.css": "/bluecube/static/css/main.907be297.chunk.css",
+    "main.js": "/bluecube/static/js/main.143e7f4e.chunk.js",
+    "main.js.map": "/bluecube/static/js/main.143e7f4e.chunk.js.map",
+    "runtime-main.js": "/bluecube/static/js/runtime-main.7c2e8fd6.js",
+    "runtime-main.js.map": "/bluecube/static/js/runtime-main.7c2e8fd6.js.map",
+    "static/js/2.096bb136.chunk.js": "/bluecube/static/js/2.096bb136.chunk.js",
+    "static/js/2.096bb136.chunk.js.map": "/bluecube/static/js/2.096bb136.chunk.js.map",
+    "static/js/3.f40823d1.chunk.js": "/bluecube/static/js/3.f40823d1.chunk.js",
+    "static/js/3.f40823d1.chunk.js.map": "/bluecube/static/js/3.f40823d1.chunk.js.map",
     "index.html": "/bluecube/index.html",
-    "static/css/main.056747e5.chunk.css.map": "/bluecube/static/css/main.056747e5.chunk.css.map",
-    "static/js/2.0bb5bb89.chunk.js.LICENSE.txt": "/bluecube/static/js/2.0bb5bb89.chunk.js.LICENSE.txt",
-    "static/media/Nkem_3.d55ec2ac.jpeg": "/bluecube/static/media/Nkem_3.d55ec2ac.jpeg",
-    "static/media/logo.6ce24c58.svg": "/bluecube/static/media/logo.6ce24c58.svg",
+    "static/css/main.907be297.chunk.css.map": "/bluecube/static/css/main.907be297.chunk.css.map",
+    "static/js/2.096bb136.chunk.js.LICENSE.txt": "/bluecube/static/js/2.096bb136.chunk.js.LICENSE.txt",
     "static/media/th.75ae38a0.jpeg": "/bluecube/static/media/th.75ae38a0.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.066ad354.js",
-    "static/js/2.0bb5bb89.chunk.js",
-    "static/css/main.056747e5.chunk.css",
-    "static/js/main.502b5d26.chunk.js"
+    "static/js/runtime-main.7c2e8fd6.js",
+    "static/js/2.096bb136.chunk.js",
+    "static/css/main.907be297.chunk.css",
+    "static/js/main.143e7f4e.chunk.js"
   ]
 }
